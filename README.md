@@ -1,9 +1,9 @@
 - Team name: SnapIT 
 
-Students :
+Team members :
 
-- Prichici Razvan     936
-- Criste Denis Lorin  933
+- Prichici Razvan    
+- Criste Denis Lorin
 - Zsok Alina
 
 
