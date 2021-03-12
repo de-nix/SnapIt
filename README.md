@@ -1,4 +1,4 @@
-- Team name: SnapIT 
+# Team name: SnapIT 
 
 Team members :
 
