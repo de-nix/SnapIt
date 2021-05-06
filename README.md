@@ -8,8 +8,7 @@
 
 ## Project Description:
 
-  Using a camera device, identify and recognize using Computer Vision objects of interest.
-  to the user containing the inital image and / or extracted images showing identified objects.
+  The main idea of this project is the recognition of different surrounding elements. In order to achieve that we used a camera device that recognizes objects using Computer Vision. The project will recognize the surrounding objects in real time.
   
 ## Schematics:
 
@@ -25,6 +24,8 @@
 - intellij
 
 ## Setup and Build:
+
+- Connect the camera to the Raspberry Pi.
 
 ## Running:
 
