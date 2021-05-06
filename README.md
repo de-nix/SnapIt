@@ -13,7 +13,7 @@
   
 ## Schematics:
 
-[Schematics image](https://github.com/at-cs-ubbcluj-ro/team-project-snapit/blob/main/Schematics.PNG)
+<div align="center"><img src="Schematics.PNG" alt="Schematics Image" width="705" height="744"></img></div>
 
 ## Rre-requisites:
 ### Hardware Components:
