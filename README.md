@@ -13,6 +13,8 @@
   
 ## Schematics:
 
+[Schematics image](https://github.com/at-cs-ubbcluj-ro/team-project-snapit/blob/main/Schematics.PNG)
+
 ## Rre-requisites:
 ### Hardware Components:
 - Raspberry Pi 3 Model V2 B+
