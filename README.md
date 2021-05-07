@@ -26,23 +26,23 @@
 ## Setup and Build:
 
 - Connect the camera to the Raspberry Pi.
+- Connect your device (PC/Laptop) using the command :
+```
+./adb connect 192.168.0.193
+```
 
 ## Running:
 
 ### Step 1 :
 Turn on the Raspberry Pi.
+
 ### Step 2 :
-Connect your device (PC/Laptop) using the command :
-```
-./adb connect 192.168.0.193
-```
-### Step 3 :
 From Android Studio > Adv Manager > choose from the Device Menu > Google IoT_rpi3
 
-### Step 4 :
+### Step 3 :
 Run the Antdroid Things Server.
 
-### Step 5 :
+### Step 4 :
 Run the Objcet Detection File from your device (PC/Laptop).
 
 ## Demo - Video Capture
