@@ -46,3 +46,5 @@ Run the Antdroid Things Server.
 Run the Objcet Detection File from your device (PC/Laptop).
 
 ## Demo - Video Capture
+
+Youtube video : https://youtu.be/MnBwAa5RIJ0
