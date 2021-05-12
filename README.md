@@ -14,7 +14,7 @@
 
 <div align="center"><img src="Schematics.PNG" alt="Schematics Image" width="705" height="744"></img></div>
 
-## Rre-requisites:
+## Pre-requisites:
 ### Hardware Components:
 - Raspberry Pi 3 Model V2 B+
 - [Video Camera Raspberry Pi](https://cleste.ro/camera-video-raspberry-pi.html)
